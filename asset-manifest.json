@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibenchi-music/static/css/main.93c3a0a0.chunk.css",
+    "main.js": "/ibenchi-music/static/js/main.2a268dd7.chunk.js",
+    "main.js.map": "/ibenchi-music/static/js/main.2a268dd7.chunk.js.map",
+    "runtime-main.js": "/ibenchi-music/static/js/runtime-main.e70ec5f4.js",
+    "runtime-main.js.map": "/ibenchi-music/static/js/runtime-main.e70ec5f4.js.map",
+    "static/js/2.69fdf9a4.chunk.js": "/ibenchi-music/static/js/2.69fdf9a4.chunk.js",
+    "static/js/2.69fdf9a4.chunk.js.map": "/ibenchi-music/static/js/2.69fdf9a4.chunk.js.map",
+    "static/js/3.b5751972.chunk.js": "/ibenchi-music/static/js/3.b5751972.chunk.js",
+    "static/js/3.b5751972.chunk.js.map": "/ibenchi-music/static/js/3.b5751972.chunk.js.map",
+    "index.html": "/ibenchi-music/index.html",
+    "static/css/main.93c3a0a0.chunk.css.map": "/ibenchi-music/static/css/main.93c3a0a0.chunk.css.map",
+    "static/js/2.69fdf9a4.chunk.js.LICENSE.txt": "/ibenchi-music/static/js/2.69fdf9a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70ec5f4.js",
+    "static/js/2.69fdf9a4.chunk.js",
+    "static/css/main.93c3a0a0.chunk.css",
+    "static/js/main.2a268dd7.chunk.js"
+  ]
+}
